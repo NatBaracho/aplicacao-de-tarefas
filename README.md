@@ -1,4 +1,4 @@
-Claro, Natã! Aqui está um modelo de **README.md** profissional para documentar sua aplicação de tarefas em React no GitHub:
+DEVstart
 
 ```markdown
 # ✅ Aplicação de Tarefas em React
